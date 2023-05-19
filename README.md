@@ -8,6 +8,8 @@
 
 
 ## 各个校区的快捷指令
+> 在safari浏览器中打开下面连接就可以导入快捷指令
+
 -  扬子津：https://www.icloud.com/shortcuts/720a7acc83fc48c6ba84eec6f671bb78
 
 - 瘦西湖：https://www.icloud.com/shortcuts/5bda119d7d7c4753920be158dac09e55
