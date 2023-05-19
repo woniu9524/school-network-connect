@@ -1,7 +1,12 @@
 # 扬州大学校园网连接快捷指令
 > 扬州大学校区多真的是很麻烦啊，小小的吐槽一下，昨天才第一次逛完整个学校，差一点毕业了还没逛完学校。
 ## 使用教程
-https://www.bilibili.com/video/BV16M4y1q7MY/
+
+
+**推荐先看视频：https://www.bilibili.com/video/BV16M4y1q7MY/**
+
+
+
 ## 各个校区的快捷指令
 -  扬子津：https://www.icloud.com/shortcuts/720a7acc83fc48c6ba84eec6f671bb78
 
